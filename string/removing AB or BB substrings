@@ -2,7 +2,6 @@
 
 // s= BBBABA -> l=2 BA
 
-                        /************* SRAVAN KUMAR **************/
 
 #include <bits/stdc++.h>
 using namespace std;
